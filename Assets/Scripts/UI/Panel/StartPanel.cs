@@ -13,7 +13,7 @@ public class StartPanel : BasePanel
     /// <summary>
     /// 路径
     /// </summary>
-    static readonly string path = "Prefabs/UI/Panel/StartPanel";
+    static readonly string path = "Resources/Prefabs/UI/Panel/StartPanel";
 
     /// <summary>
     /// 
